@@ -1,5 +1,5 @@
 {
-  "name": "lef-react-default",
+  "name": "@saidake/lef-react-default",
   "version": "1.0.0",
   "description": "This package provides template for \"lef\".",
   "main": "index.js",
